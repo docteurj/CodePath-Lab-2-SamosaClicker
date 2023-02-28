@@ -30,7 +30,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1> Samosa Selector </h1>
+      <h1> Samosa Clicker </h1>
       <h2> Count: {count} </h2>
       <img className='samosa' src={samosa_img} onClick={updateCount}></img>
       <div className='container'>
