@@ -48,6 +48,11 @@
   text-align: center;
 }
 
+.samosa:hover {
+  cursor: pointer;
+  transform: scale(1.3);
+}
+
 .container {
   margin-top: 50px;
   display: flex;
